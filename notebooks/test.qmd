@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+format: html
+---
+
+## Encabezado
+
+Este es un documento.
+
+```{python}
+import pandas as pd
+
+print("Hello, world!")
+```
